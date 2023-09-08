@@ -1,2 +1,1 @@
-# hw1-2023-1
-539 F23 HW1: HTML - Deploy and Test
+# 539w2023-hw1
